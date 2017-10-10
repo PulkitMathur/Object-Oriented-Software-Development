@@ -1,0 +1,93 @@
+2017-10-06 17:19:34,754  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-06 17:19:36,395  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-06 17:19:41,196  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-06 17:19:48,247  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 54 - Load Clicked
+2017-10-06 17:19:50,263 ERROR [AWT-EventQueue-0] - buttonLogger.loadFunctionality 91 - Loading Failednull
+2017-10-06 17:19:51,722  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 41 - Play Clicked
+2017-10-07 16:40:37,648  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-07 16:40:38,968  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 36 - GREEN Background Selected: 
+2017-10-07 16:40:46,194  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:41:09,626  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:41:31,880  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:41:39,079  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:42:07,289  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:42:10,665  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:42:11,768  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:42:11,794 DEBUG [Thread-1] - timeLogger.execute 33 - 00:00
+2017-10-07 16:42:13,012 DEBUG [Thread-1] - timeLogger.execute 33 - 00:01
+2017-10-07 16:42:14,237 DEBUG [Thread-1] - timeLogger.execute 33 - 00:02
+2017-10-07 16:42:15,454 DEBUG [Thread-1] - timeLogger.execute 33 - 00:03
+2017-10-07 16:42:16,672 DEBUG [Thread-1] - timeLogger.execute 33 - 00:04
+2017-10-07 16:42:17,890 DEBUG [Thread-1] - timeLogger.execute 33 - 00:05
+2017-10-07 16:42:19,106 DEBUG [Thread-1] - timeLogger.execute 33 - 00:06
+2017-10-07 16:42:20,324 DEBUG [Thread-1] - timeLogger.execute 33 - 00:07
+2017-10-07 16:42:21,538 DEBUG [Thread-1] - timeLogger.execute 33 - 00:08
+2017-10-07 16:42:22,757 DEBUG [Thread-1] - timeLogger.execute 33 - 00:09
+2017-10-07 16:42:23,971 DEBUG [Thread-1] - timeLogger.execute 33 - 00:10
+2017-10-07 16:42:25,189 DEBUG [Thread-1] - timeLogger.execute 33 - 00:11
+2017-10-07 16:42:38,645  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:42:47,887  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:42:48,960  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 45 - Pause Clicked
+2017-10-07 16:42:51,518  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:46:44,567  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:46:50,075  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:46:51,090  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:54:49,652  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-07 16:54:54,762  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:54:55,755  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:56:56,975  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:56:59,818  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 16:57:00,832  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 16:59:55,857  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 17:00:01,532  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:00:03,055  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:00:04,164  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:00:42,489  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 17:00:46,701  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:00:47,520  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:01:21,979  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:01:22,978  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:03:55,128  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:03:56,085  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:04:58,606  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:04:59,577  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:05:35,338  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:05:40,085  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:05:41,442  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:06:54,373  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:06:55,547  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:07:44,200  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:07:45,251  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:08:45,223  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:08:46,209  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:11:05,042  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:11:05,797  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:11:47,185  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:11:48,041  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:16:20,876  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:16:22,427  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:34:07,575  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:34:08,567  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:35:01,815  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:35:02,642  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:37:16,515  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:37:17,580  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:37:52,557  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:37:53,397  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:38:23,681  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:38:24,963  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:38:54,520  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:38:55,520  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:39:22,496  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:39:23,584  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:40:00,569  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:40:01,576  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-07 17:41:15,015  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-07 17:41:15,920  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked
+2017-10-08 22:07:00,591 DEBUG [main] - timeLogger.execute 44 - 00:05
+2017-10-08 22:11:37,629 DEBUG [main] - timeLogger.execute 44 - 00:05
+2017-10-08 22:13:30,271 DEBUG [main] - timeLogger.execute 43 - 00:05
+2017-10-08 22:32:13,885  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-08 22:32:39,215  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-08 22:32:42,937  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 35 - Draw Clicked
+2017-10-08 22:32:46,233  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 40 - Play Clicked

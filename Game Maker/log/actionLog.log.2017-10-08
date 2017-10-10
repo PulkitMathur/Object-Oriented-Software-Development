@@ -1,0 +1,65 @@
+2017-10-06 17:19:27,056  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Bounce Selected
+2017-10-06 17:19:34,754  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-06 17:19:36,395  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:40:26,486  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 16:40:37,648  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-07 16:40:38,968  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 36 - GREEN Background Selected: 
+2017-10-07 16:40:52,529  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:40:53,427  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 16:41:18,136  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:41:21,203  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 56 - Blow Up Selected
+2017-10-07 16:42:04,331  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:42:07,289  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:42:11,794 DEBUG [Thread-1] - timeLogger.execute 33 - 00:00
+2017-10-07 16:42:13,012 DEBUG [Thread-1] - timeLogger.execute 33 - 00:01
+2017-10-07 16:42:14,237 DEBUG [Thread-1] - timeLogger.execute 33 - 00:02
+2017-10-07 16:42:15,454 DEBUG [Thread-1] - timeLogger.execute 33 - 00:03
+2017-10-07 16:42:16,672 DEBUG [Thread-1] - timeLogger.execute 33 - 00:04
+2017-10-07 16:42:17,890 DEBUG [Thread-1] - timeLogger.execute 33 - 00:05
+2017-10-07 16:42:19,106 DEBUG [Thread-1] - timeLogger.execute 33 - 00:06
+2017-10-07 16:42:19,963 DEBUG [AWT-EventQueue-0] - actionLogger.itemStateChanged 28 - Index: 1
+2017-10-07 16:42:19,963 DEBUG [AWT-EventQueue-0] - actionLogger.itemStateChanged 31 - Frogger Selected
+2017-10-07 16:42:19,964 DEBUG [AWT-EventQueue-0] - actionLogger.itemStateChanged 28 - Index: 1
+2017-10-07 16:42:19,967 DEBUG [AWT-EventQueue-0] - actionLogger.itemStateChanged 31 - Frogger Selected
+2017-10-07 16:42:20,324 DEBUG [Thread-1] - timeLogger.execute 33 - 00:07
+2017-10-07 16:42:21,538 DEBUG [Thread-1] - timeLogger.execute 33 - 00:08
+2017-10-07 16:42:22,757 DEBUG [Thread-1] - timeLogger.execute 33 - 00:09
+2017-10-07 16:42:23,971 DEBUG [Thread-1] - timeLogger.execute 33 - 00:10
+2017-10-07 16:42:25,189 DEBUG [Thread-1] - timeLogger.execute 33 - 00:11
+2017-10-07 16:42:38,645  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:42:40,870  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:46:40,799  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:46:44,567  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:54:41,374  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:54:49,652  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-07 16:56:51,551  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:56:56,975  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 16:59:52,515  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 16:59:55,857  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 17:00:40,040  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:00:42,489  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-07 17:01:15,889  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:03:46,960  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:04:49,891  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:05:29,799  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:06:46,679  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:07:38,495  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:08:38,126  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:10:58,364  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:11:42,865  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 36 - Move Selected
+2017-10-07 17:16:00,290  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:34:00,606  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:34:57,849  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:37:11,993  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:37:50,230  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:38:21,014  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:38:51,376  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:39:16,172  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:39:57,634  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-07 17:41:11,913  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 41 - Automove Random Selected
+2017-10-08 22:07:00,591 DEBUG [main] - timeLogger.execute 44 - 00:05
+2017-10-08 22:11:37,629 DEBUG [main] - timeLogger.execute 44 - 00:05
+2017-10-08 22:13:30,271 DEBUG [main] - timeLogger.execute 43 - 00:05
+2017-10-08 22:32:06,598  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 70 - Shoot is Selected
+2017-10-08 22:32:22,546  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 70 - Shoot is Selected
+2017-10-08 22:32:26,724  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 74 - Auto Shoot is Selected

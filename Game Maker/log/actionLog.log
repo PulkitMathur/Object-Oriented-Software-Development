@@ -1,0 +1,178 @@
+2017-10-09 00:41:01,545  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 50 - Automove Random Selected
+2017-10-09 00:43:13,999  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 50 - Automove Random Selected
+2017-10-09 00:43:20,636  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 70 - Shoot is Selected
+2017-10-09 00:43:22,355  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:43:23,741  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:44:50,029  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 00:44:52,952  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:45:21,969  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 00:45:24,669  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:45:26,032  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 00:45:29,021  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:46:29,939  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 00:46:52,217  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 00:46:58,648  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 00:47:00,124  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:54:38,328  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 00:54:42,686  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 00:54:54,052  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 00:54:54,858  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 01:02:39,725  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:02:45,647  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:03:37,565  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:03:40,618  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 01:10:31,646  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:10:31,839  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:10:32,480  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:10:34,146  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:12:40,740  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 01:12:41,959  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:17:23,072  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:17:27,028  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:17:40,778  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:17:47,296  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 01:17:51,376  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:18:59,017  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:19:02,083  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:19:21,155  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:19:24,968  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:22:32,106  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:22:35,027  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 01:22:56,318  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 01:22:57,351  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 45 - Move Selected
+2017-10-09 01:22:59,389  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 65 - Blow Up Selected
+2017-10-09 02:01:40,663  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 50 - Automove Random Selected
+2017-10-09 02:02:07,937  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 55 - Automove Horizontal Selected
+2017-10-09 02:02:08,494  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 50 - Automove Random Selected
+2017-10-09 02:02:24,408  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 70 - Shoot is Selected
+2017-10-09 02:02:25,267  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 70 - Shoot is Selected
+2017-10-09 02:02:26,303  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 74 - Auto Shoot is Selected
+2017-10-09 10:44:25,537  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 103 - Automove Horizontal Selected
+2017-10-09 10:51:44,924  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:52:08,579  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 10:52:08,580  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:53:32,462  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:53:32,463  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:54:23,174  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 10:54:23,175  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:54:59,032  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 10:54:59,033  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:55:18,223  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:55:18,224  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:55:26,095  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:55:26,096  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:55:46,297  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:55:46,297  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:59:34,814  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 10:59:34,815  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 10:59:54,888  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 10:59:54,889  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:01:00,801  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 11:01:00,801  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 119 - Shoot is Selected
+2017-10-09 11:11:27,380  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 11:11:27,381  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:12:09,615  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 94 - Move Selected
+2017-10-09 11:12:09,616  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:12:09,616  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 119 - Shoot is Selected
+2017-10-09 11:12:44,802  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 11:12:44,803  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:13:04,888  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 11:13:04,889  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:15:26,741  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 104 - Automove Horizontal Selected
+2017-10-09 11:15:26,742  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 114 - Blow Up Selected
+2017-10-09 11:15:26,742  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 123 - Auto Shoot is Selected
+2017-10-09 12:21:42,279  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 57 - Move Selected
+2017-10-09 12:21:42,280  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 77 - Blow Up Selected
+2017-10-09 12:21:42,281  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 82 - Shoot is Selected
+2017-10-09 12:22:38,256  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 67 - Automove Horizontal Selected
+2017-10-09 12:22:38,258  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 77 - Blow Up Selected
+2017-10-09 12:22:38,258  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 86 - Auto Shoot is Selected
+2017-10-09 12:23:55,801  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 57 - Move Selected
+2017-10-09 12:23:55,802  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 77 - Blow Up Selected
+2017-10-09 12:23:55,802  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 82 - Shoot is Selected
+2017-10-09 12:24:33,719  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 67 - Automove Horizontal Selected
+2017-10-09 12:24:33,720  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 86 - Auto Shoot is Selected
+2017-10-09 12:24:40,790  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 67 - Automove Horizontal Selected
+2017-10-09 12:24:40,791  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 77 - Blow Up Selected
+2017-10-09 12:24:40,791  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 86 - Auto Shoot is Selected
+2017-10-09 12:34:11,750  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 12:34:11,751  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:34:11,752  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 12:34:34,347  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:34:34,348  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:34:34,348  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 12:36:25,272  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:36:25,273  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:36:25,273  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 12:40:23,732  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 12:40:23,733  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 12:46:13,995  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 12:46:13,996  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:46:13,997  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 12:50:49,295  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 12:50:49,297  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:51:40,269  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:51:40,270  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:51:40,273  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 12:54:51,803  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:54:51,804  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 12:55:36,745  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:55:36,746  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:55:36,747  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 12:57:18,005  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 12:57:18,007  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:57:18,007  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 12:57:52,946  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 12:57:52,948  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 12:59:30,210  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:01:24,709  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:01:24,710  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:02:11,293  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:02:11,294  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:04:38,501  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:04:38,502  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:04:38,503  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:05:04,922  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:05:04,923  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:05:33,315  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:05:33,315  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:05:33,315  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:06:17,484  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:06:17,485  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:06:17,486  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:07:04,734  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:07:04,735  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:13:59,421  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:13:59,422  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:13:59,423  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:14:54,371  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:14:54,373  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:14:54,373  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:15:06,725  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:15:06,726  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:15:06,726  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:15:19,168  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:15:19,168  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:15:40,820  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:15:40,821  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:15:45,090  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:15:45,091  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:17:19,479  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:17:19,482  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:17:19,484  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 87 - Auto Shoot is Selected
+2017-10-09 13:17:41,818  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:17:41,819  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:17:41,819  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 83 - Shoot is Selected
+2017-10-09 13:18:57,388  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:18:57,391  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:19:47,973  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:19:47,975  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:24:26,378  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:25:18,716  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:25:34,471  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:29:34,526  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 58 - Move Selected
+2017-10-09 13:30:13,663  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:30:13,663  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:30:29,258  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 68 - Automove Horizontal Selected
+2017-10-09 13:30:29,264  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
+2017-10-09 13:32:00,382  INFO [AWT-EventQueue-0] - actionLogger.actionPerformed 78 - Blow Up Selected
