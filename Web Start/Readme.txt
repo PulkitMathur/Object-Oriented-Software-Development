@@ -1,1 +1,1 @@
-Online playing the arcade games developed using Java Swing, Spring and Hibernate.
+A downloadable Java Swing Application which allows user to create and play five Atari Games (Asteroids, Pacman, Space Invaders, Breakout, Frogger)
