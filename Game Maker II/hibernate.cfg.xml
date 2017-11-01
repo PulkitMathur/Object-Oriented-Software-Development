@@ -1,0 +1,25 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->  
+<!DOCTYPE hibernate-configuration PUBLIC
+      "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+      "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd" >
+      
+<hibernate-configuration>  
+    <session-factory>  
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>  
+        <property name="hibernate.connection.username">fall2017_user3</property>  
+        <property name="hibernate.connection.password">team3db</property>  
+        <property name="hibernate.connection.url">jdbc:mysql://tintin.cs.indiana.edu:8099/fall2017_a7_team3</property>  
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>  
+        <property name="show_sql">true</property>   
+        <property name="connection.pool_size">1</property>  
+        <property name="hibernate.current_session_context_class">thread</property>
+        <!-- <property name="hibernate.hbm2ddl.auto">create</property> -->
+          
+        <mapping class="com.oosd.hibernate.Resources"></mapping>  
+        <mapping class="com.oosd.hibernate.Test"></mapping>  
+        <mapping class="com.oosd.model.Game"></mapping> 
+        <mapping class="com.oosd.model.Score"></mapping> 
+  
+    </session-factory>  
+</hibernate-configuration>  
+

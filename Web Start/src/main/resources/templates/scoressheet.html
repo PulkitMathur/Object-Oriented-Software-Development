@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.4/css/bootstrap.min.css"
+          th:href="@{/webjars/bootstrap/3.3.4/css/bootstrap.min.css}"
+          rel="stylesheet" media="screen" />
+    <title>GameBuilderScores</title>
+</head>
+<body style="background-color:powderblue;">
+     <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- <a class="navbar-brand" href="#">Game Builder</a>-->
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Score</a></li>
+                    <!-- <li><a href="/players">Players</a> </li> -->
+                    <li><a href="http://fluency.knownspace.org/student-files/fall2017/a7/fall2017_a7_team2/launch.jnlp">Download Game Builder</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h3>Score</h3>
+        <table class="table table-striped">
+            <tr>
+                <th>PlayerId</th>
+                <th>PlayerName</th>
+                <th>GameId</th>
+                <th>GameName</th>
+            </tr>
+            <tr th:each="score : ${scoreslist}">
+                <td th:text="${score.playerId}"></td>
+                <td th:text="${score.playerName}"></td>
+                <td th:text="${score.gameId}"></td>
+                <td th:text="${score.gameName}"></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

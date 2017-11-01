@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://fluency.knownspace.org/student-files/fall2017/a7/fall2017_a7_team3/" href="$outputFile">
+ <information>
+   <title>Hello World</title>
+   <vendor>P532</vendor>
+    <homepage href="http://fluency.knownspace.org/confluence"/>
+    <description>Testing...</description>   
+    <description kind="short"></description>
+    <icon href="kslogo.gif" />
+ </information>
+  <offline-allowed />
+  <security>
+      <all-permissions />
+  </security>
+  <resources>
+    <j2se version="1.6+" />
+    <jar href="fall2017_a7_team3-0.1.jar" />
+	<jar href="log4j-1.2.17.jar" />
+	<jar href="jlayer-1.0.1.jar" />
+	<jar href="hibernate-entitymanager-4.2.8.Final.jar" />
+	<jar href="hibernate-core-4.2.8.Final.jar" />
+	<jar href="hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+	<jar href="hibernate-commons-annotations-4.0.2.Final.jar" />
+	<jar href="dom4j-1.6.1-hudson-3.jar" />
+	<jar href="jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
+	<jar href="jboss-logging-3.1.0.GA.jar" />
+	<jar href="mysql-connector-java-5.1.6.jar" />
+	<jar href="javassist-3.18.1-GA.jar" />
+	<jar href="antlr-2.7.7.jar" />
+  </resources>
+ <application-desc main-class="$mainClass">
+ </application-desc>
+</jnlp>
